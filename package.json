@@ -1,9 +1,9 @@
 {
-  "name": "simonSays",
+  "name": "simon-says",
   "version": "1.0.0",
-  "description": "SimonSays game using JavaScript, coding practice",
+  "description": "SimonSays game using JavaScript game",
   "main": "main.js",
-  "repository": "https://github.com/JSLinn727/simonSays",
+  "repository": "https://github.com/JSLinn727/simon-says",
   "author": "Justin Linn",
   "license": "MIT",
   "private": true,
